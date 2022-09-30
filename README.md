@@ -4,4 +4,4 @@
 
 <h1 align="center">MTOTM 💡</h1>
 
-## We've Migrated! Redirect to [MTOTM](https://github.com/not-that-metaDAO/MTOTM) to view the repository.
+### We've Migrated! Redirect to [MTOTM](https://github.com/not-that-metaDAO/MTOTM) to view the repository.
